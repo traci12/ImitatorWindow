@@ -1,0 +1,2 @@
+# ImitatorWindow
+Simple Java Animation
